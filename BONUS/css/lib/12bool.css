@@ -151,3 +151,19 @@
 .between{
     justify-content: space-between;
 }
+
+.center{
+    justify-content: center;
+}
+
+.end{
+    justify-content: end;
+}
+
+.middle{
+    align-items: center;
+}
+
+.bottom{
+    align-items: end;
+}

@@ -8,6 +8,10 @@
     border: 1px solid white;
 }
 
+.box-2{
+    min-height: 80px;
+}
+
 .box-green{
     background-color: green;
     padding: 10px;
