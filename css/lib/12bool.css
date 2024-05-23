@@ -1,0 +1,23 @@
+/* istruzioni generali */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* container */
+.container{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.container-fluid{
+    width: 100%;
+    max-width: 100%;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
