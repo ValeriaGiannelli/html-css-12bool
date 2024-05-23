@@ -6,3 +6,9 @@
     padding: 10px;
     border: 1px solid white;
 }
+
+.box-green{
+    background-color: green;
+    padding: 10px;
+    border: 1px solid blue;
+}
